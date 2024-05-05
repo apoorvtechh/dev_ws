@@ -38,6 +38,7 @@ License
 **Credits**
 
 This project was inspired by Articulated Robotics
+
 **Contact**
 
 For any inquiries or support, contact apoorvtechh@gmail.com.
